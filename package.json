@@ -1,14 +1,15 @@
 {
-  "name": "navegator_electronjs",
+  "name": "Navegator_ElectronJS",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node ."
+    "start": "electron ."
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^9.0.0"
   }
 }
